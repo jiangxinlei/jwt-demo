@@ -16,7 +16,7 @@ yarn start
 
 jwt 鉴权是用户在调用登录等 API 之前，服务端对用户进行“身份认证”。
 
-![jwt]()
+![jwt](https://github.com/jiangxinlei/jwt-demo/blob/master/jwt.png)
 
 流程：
 
